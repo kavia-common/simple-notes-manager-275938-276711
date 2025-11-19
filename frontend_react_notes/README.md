@@ -53,6 +53,10 @@ Common components include:
 - Navigation (`.navbar`)
 - Typography (`.title`, `.subtitle`, `.description`)
 
+### Usage Tips
+- **Add Note**: Click "+ Add Note" or use <kbd>Ctrl+N</kbd>.
+- Notes are saved in your browser (persistent even after reload).
+
 ## Learn More
 
 To learn React, check out the [React documentation](https://reactjs.org/).
